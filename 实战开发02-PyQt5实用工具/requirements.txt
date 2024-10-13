@@ -1,0 +1,4 @@
+pyqt5
+pyserial
+pybluez2==0.37
+requests
